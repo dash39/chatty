@@ -1,0 +1,5 @@
+this,my,your,our
+conversation,point,thoughts,speech,talk,dialog
+sounds,looks,feels,seems
+silly,confident,unusual,unpredictable,convenient
+,.,!
